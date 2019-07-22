@@ -1,7 +1,3 @@
-# Route_Planner Algorithm
-
-Pseudocode for A* Algorithm
-
 function reconstruct_path(cameFrom, current)
     total_path := {current}
     while current in cameFrom.Keys:
