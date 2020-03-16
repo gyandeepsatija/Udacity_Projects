@@ -4,10 +4,10 @@
 The objects need to be picked up from one location in the house(map) and dropped at other location
 
 ## packages used
-gmapping
-turtlebot_teleop
-turtlebot_rviz_launchers
-turtlebot_gazebo
+gmapping 
+turtlebot_teleop 
+turtlebot_rviz_launchers 
+turtlebot_gazebo 
 
 ## Gmapping
 gmapping package is used to create a map manually by moving the turtlebot via keyboard teleop.
@@ -26,10 +26,10 @@ A pickup goal is first sent and then it listens until the goal is reached and
 then a drop off goal is sent again to navigate the bot to drop off location
 This feature an be tested by running pick_objects.sh script file.
 
-##add_markers
+## add_markers
 add_markers package displays cube shape markers to visualise the object postion at pick up goal 
 dropped off by the bot at the drop off goal position.
 This feature an be tested by running add_marker.sh script file.
 
-##home_service feature
+## home_service feature
 Run home_service.sh to see the goals being sent to the bot and also the markers help to visualize the pickup and drop off function.
