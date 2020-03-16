@@ -1,3 +1,3 @@
 # Udacity_Projects
 
-This repository contains the projects from two Udacity Nanodegrees namely, Robotics Software and Introduction to Self driving Cars.
+This repository contains the projects from the Udacity Robotics Software Engineer Nanodegree.
